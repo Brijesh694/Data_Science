@@ -1,0 +1,6 @@
+
+======================================================================
+Timestamp: 2026-07-07 07:55:02.974265
+Mode: RAG
+Query: Cancellation Policy
+Output: Simulated Answer: Retrieved policy information displayed above.

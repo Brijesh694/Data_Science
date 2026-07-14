@@ -1,0 +1,12 @@
+[
+  {"name":"Paneer Tikka","cuisine":"Indian","price":220,"veg":true},
+  {"name":"Veg Biryani","cuisine":"Indian","price":180,"veg":true},
+  {"name":"Margherita Pizza","cuisine":"Italian","price":250,"veg":true},
+  {"name":"Pasta Alfredo","cuisine":"Italian","price":280,"veg":true},
+  {"name":"Veg Burger","cuisine":"American","price":150,"veg":true},
+  {"name":"French Fries","cuisine":"American","price":120,"veg":true},
+  {"name":"Hakka Noodles","cuisine":"Chinese","price":190,"veg":true},
+  {"name":"Manchurian","cuisine":"Chinese","price":200,"veg":true},
+  {"name":"Dosa","cuisine":"South Indian","price":130,"veg":true},
+  {"name":"Idli Sambhar","cuisine":"South Indian","price":100,"veg":true}
+]

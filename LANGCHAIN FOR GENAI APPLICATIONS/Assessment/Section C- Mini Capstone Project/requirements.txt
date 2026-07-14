@@ -1,0 +1,7 @@
+streamlit
+flask
+requests
+langchain==0.1.13
+scikit-learn
+joblib
+pandas
